@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{E11CE7B9-4CD5-41F3-B376-1ADA369D65E8}|https">
+  <MonoDevelop.Ide.ItemProperties.miniprojektsem3 PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MinSolution" expanded="True">
+            <Node name="kreddit-app" expanded="True" selected="True" />
+            <Node name="miniprojektsem3" expanded="True" />
+            <Node name="shared" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

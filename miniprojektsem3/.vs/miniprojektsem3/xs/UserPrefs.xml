@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{ED5079FA-5BF3-4655-912F-BD61D9246B32}|https">
+  <MonoDevelop.Ide.ItemProperties.miniprojektsem3 PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Service/RedditService.cs">
+    <Files>
+      <File FileName="Program.cs" />
+      <File FileName="Data/RedditContext.cs" />
+      <File FileName="Service/RedditService.cs" Line="40" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="miniprojektsem3" expanded="True">
+            <Node name="miniprojektsem3" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Service" expanded="True">
+                <Node name="RedditService.cs" selected="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
